@@ -7,7 +7,7 @@ const { Player } = require("discord-player")
 
 
 dotenv.config()
-const TOKEN = process.env.TOKEN
+const TOKEN = 'NzIwMTgzODEwMzY0NTM4OTAy.GmtoEg.XSAyayhwH9GKP37S2pZAAsctIrzJbf1U_5f8ys'
 
 const LOAD_SLASH = process.argv[2] == "load"
 
